@@ -1,0 +1,4 @@
+github.com/iamsamd/cdm_framework v0.0.0-20250810151334-095f107f9cf9 h1:VZxbzXe/j6P9WFPBekmFl9h61PR+Vc+6n8rrd33GXmQ=
+github.com/iamsamd/cdm_framework v0.0.0-20250810151334-095f107f9cf9/go.mod h1:+Ah/VUGQOZylnVPsZtjt9JT1pNpMSOLs5JbxNiCx5kc=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=

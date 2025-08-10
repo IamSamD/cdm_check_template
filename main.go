@@ -1,8 +1,9 @@
 package main
 
 import (
-	"dependabotprs/check"
 	"log/slog"
+
+	"{{.Module}}/check"
 
 	"github.com/iamsamd/cdm_framework"
 )
