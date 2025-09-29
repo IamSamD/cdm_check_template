@@ -1,12 +1,10 @@
 package check
 
 import (
-	"log/slog"
-
 	"github.com/iamsamd/cdm_framework"
 )
 
-var log *slog.Logger = cdm_framework.Logger
+var log *cdm_framework.Logger = cdm_framework.NewLogger()
 
 /*
 ConfigValues is a slice of strings, each string being the name of
